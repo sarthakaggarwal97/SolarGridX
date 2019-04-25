@@ -1,5 +1,3 @@
-![Header](/images/top-logo.jpg)
-
 # SolarGridX NEM (Android)
 
 Control Your Money!
