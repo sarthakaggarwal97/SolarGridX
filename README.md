@@ -38,19 +38,6 @@ In case of a device loss or replacement the user may easily restore the wallet u
 
 Note: The SolarGridX NEM should not be installed on a jailbroken iOS or flushed Android operating systems. The native safe storage mechanisms where the wallet keeps your Secret Keys are no longer reliable on a tempered iOS or Android operating systems. This means that some malicious app running on jailbroken device can potentially access the private keys for your funds and steal them.
 
-## Source Code:
-
-- Android: [https://github.com/horizontalsystems/bank-wallet-android-app](https://github.com/horizontalsystems/bank-wallet-android-app)
-
-Along with the launch of the SolarGridX NEM app a number of developer friendly open-source code repositories were released in parallel. This repositories enable developers to create better performing and at the same time truly private and secure crypto wallets.
-
-Moreover, using these repositories it is fairly easy to create independent branded decentralized custom crypto wallets either for a single currency or a bunch of them pushing the crypto adoption and ecosystem further.
-
-## Install
-
-- Play Market: [play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet](https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet)
-- Releases: [github.com/horizontalsystems/bank-wallet-android/releases](https://github.com/horizontalsystems/bank-wallet-android/releases)
-
 ## License
 
 The SolarGridX NEM is open source and available under the terms of the MIT Lincense.
