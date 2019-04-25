@@ -8,8 +8,6 @@ The number of supported crypto currencies being gradually increased with every r
 
 This SolarGridX NEM provides a seamless way to get started with Bitcoin and other crypto currencies for masses. It has been built using best practices from the design of the interface to the implementation of blockchain protocols.
 
-![Header](/images/BankWalletAllTabs-android-Mockup.jpg)
-
 
 ## Independent & Decentralized
 
